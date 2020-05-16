@@ -6,7 +6,7 @@ if (workbox)
 	workbox.precaching.precacheAndRoute([
   {
     "url": "js/app.min.js",
-    "revision": "a32ef17f69e1f38d2c7f3235cd2e2dbc"
+    "revision": "f6f3ddf76b54a5d5ee41800f8bfcee51"
   },
   {
     "url": "js/extensions.min.js",
@@ -14,7 +14,7 @@ if (workbox)
   },
   {
     "url": "js/stencils.min.js",
-    "revision": "8f09eee243202b723a6d71d6e8fbf78e"
+    "revision": "be66334d69e1fc4bead3535f87dfa611"
   },
   {
     "url": "js/shapes.min.js",
@@ -42,7 +42,7 @@ if (workbox)
   },
   {
     "url": "styles/dark.css",
-    "revision": "c7688082f9e2101d8c4150124835070f"
+    "revision": "bd0e851bff9047866cfa0683fe89ac38"
   },
   {
     "url": "js/croppie/croppie.min.css",
